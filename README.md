@@ -1,2 +1,2 @@
 # ScreenshotMax
-A screenshot tool which can take screenshots at a fixed size, such as 400 * 500 or 123 * 456 pixels. This tool is used to solve the problem of different font sizes in screenshots. 
+A screenshot tool which can take screenshots at a fixed size, such as 400 * 500 or 123 * 456 pixels. This tool is used to solve the problem of different font sizes in screenshots. This tool is mainly used for typesetting, and some documents are more beautiful. Of course, for some cases with many texts, screen recognition can be used to more accurately capture screenshots of the specified number of lines.
